@@ -1,6 +1,6 @@
 # nodejs-homework1
 
-//screen1 - https://monosnap.com/file/ahScEdKjiilbhaRnUnwDaDFAhR7SI1
-//screen2 - https://monosnap.com/file/pP8xNKSEoeJTaXxo2Pm29yuSdCAHIk
-//screen3 - https://monosnap.com/file/a6OZWCcGTaGqIcYmPA4jfZcXB4GLeU
-//screen4 - https://monosnap.com/file/XrOSYqirz474jpY0F7FVHa4zeRJ7nt
+//screen1 - https://monosnap.com/file/5eLPaL30pSofK84uzZD3MS8L2kdJAf
+//screen2 - https://monosnap.com/file/Cm4bYcHvzoAtpsx2LrYtzhFX2iXVYh
+//screen3 - https://monosnap.com/file/zNElsQf1mzxWj5NeSzinyqvcsRlvok
+//screen4 - https://monosnap.com/file/KLxOxklkGfMfyuHCz0isjbjGdbmfOi
